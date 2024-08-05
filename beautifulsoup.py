@@ -14,3 +14,6 @@ print(s1)
 print("Today's low temp: ")
 s2 = s[1].text
 print(s2)
+if name == '__main__':
+  print()
+  
