@@ -1,2 +1,2 @@
 requests
-beautiful soup
+beautifulsoup4
